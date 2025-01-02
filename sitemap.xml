@@ -11,14 +11,6 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  
-  <!-- Página de confirmação -->
-  <url>
-    <loc>https://www.arguspav.com/sendConfirmation.html</loc>
-    <lastmod>2024-12-28T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
 
   <!-- Recursos de imagem - branding -->
   <url>
@@ -89,5 +81,4 @@
     <changefreq>never</changefreq>
     <priority>0.1</priority>
   </url>
-
 </urlset>
