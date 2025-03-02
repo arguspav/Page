@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+Allow: /source/images/branding/icone-verde-transparente.ico
+
+Sitemap: https://www.arguspav.com/sitemap.xml
